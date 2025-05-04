@@ -2,7 +2,7 @@
 
 I'm a software engineer, entrepreneur, and technology leader passionate about building tools that support innovation, digital governance, and entrepreneurship — especially across Africa.
 
-Currently, I lead the <a href="https://iih.ng" target="_blank">Ilorin Innovation Hub</a>, an initiative of the <a href="https://kwarastate.gov.ng" target="_blank">Kwara State Government</a> in partnership with <a href="https://ihstowers.com" target="_blank">IHS Towers</a>, where I work with a talented team to support developers, startups, and digital talent through programs, partnerships, and infrastructure.
+Currently, I lead the <a href="https://iih.ng" target="_blank">Ilorin Innovation Hub</a>, an initiative of the <a href="https://kwarastate.gov.ng" target="_blank">Kwara State Government</a> in partnership with <a href="https://ihstowers.com" target="_blank">IHS Towers</a> in Nigeria, where I work with a talented team to support developers, startups, and digital talent through programs, partnerships, and infrastructure.
 
 ---
 
