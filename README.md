@@ -73,8 +73,8 @@ _Thanks for stopping by! I'm always learning and happy to collaborate._
 
 ### 📊 GitHub Stats
 
-![Temi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=temikolawole&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temikolawole&layout=compact&theme=default)
+![Temi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=temikeezy&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temikeezy&layout=compact&theme=default)
 
 ---
 
