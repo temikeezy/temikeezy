@@ -115,8 +115,9 @@ I’m always open to meaningful collaboration around technology, digital infrast
 
 Most of my large-scale, institutional, and production work lives in private repositories or live environments, so public activity represents only a portion of what I build.
 
-![Temi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=temikeezy&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temikeezy&layout=compact&theme=default)
+![Temi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=temikeezy&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temikeezy&layout=compact&hide_border=true)
 
 ---
 
