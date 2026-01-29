@@ -1,6 +1,3 @@
-All good — here it is in a clean copy box.
-
-```markdown
 # 👋🏾 Hi, I'm Temi Kolawole
 
 I’m a systems-focused software engineer, entrepreneur, and technology leader working at the intersection of **technology, digital governance, and innovation ecosystems**. I design and build digital systems that enable scalable infrastructure, institutional efficiency, and high-impact entrepreneurship — with strong relevance to African markets.
@@ -103,4 +100,3 @@ Most of my large-scale, institutional, and production work lives in private repo
 ---
 
 *Last updated: 2026-01-29*
-```
